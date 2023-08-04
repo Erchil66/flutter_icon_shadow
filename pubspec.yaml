@@ -6,7 +6,7 @@ homepage: https://github.com/mehrtarh/flutter_icon_shadow
 
 
 environment:
-  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+  sdk: '>=3.0.5 <4.0.0'
 
 dependencies:
   flutter:
